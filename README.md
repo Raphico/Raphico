@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raphael Awoyinfa
 
-I’m passionate about building solutions for the web. Currently, I’m immersed in a variety of exciting projects.
+I’m passionate about building solutions for the web. Currently, I’m immersed in a variety of exciting projects. I'm currently working on [WardrobePal](https://github.com/Raphico/WardrobePal)
 
 ### 🧰 Languages and tools I use
 
