@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Raphael Awoyinfa
 
-I’m passionate about building solutions for the web. Currently, I’m immersed in a variety of exciting projects. I'm currently working on [WardrobePal](https://github.com/Raphico/WardrobePal)
+I’m passionate about building solutions for the web. Building [WardrobePal](https://github.com/Raphico/WardrobePal)
 
+<!--
 ### 🧰 Languages and tools I use
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,15 +21,16 @@ I’m passionate about building solutions for the web. Currently, I’m immersed
 
 ### 💬 Let's connect
 
-If you have any questions, ideas, or just want to chat about tech, feel free to reach out! I love engaging with fellow enthusiasts and exchanging insights. You can connect with me through [Raphico](https://twitter.com/Raphico_OA)
+If you have any questions, ideas, or just want to chat about tech, feel free to reach out! I love engaging with fellow enthusiasts and exchanging insights. You can connect with me through [Raphico](https://twitter.com/Raphico_OA) -->
 
 ### ⚡ Fun Fact
 
 I’m sure that the best code is often written while wearing comfy slippers! 😄
 
+<!--
 ### 📊 Statistics
 
-[![Raphico's github stats](https://github-readme-stats.vercel.app/api?username=Raphico&theme=dark&count_private=true)]
+[![Raphico's github stats](https://github-readme-stats.vercel.app/api?username=Raphico&theme=dark&count_private=true)] -->
 
 #
 
