@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raphael Awoyinfa
 
-I’m passionate about building solutions for the web. Building [WardrobePal](https://github.com/Raphico/WardrobePal)
+I’m passionate about building solutions for the web.
 
 <!--
 ### 🧰 Languages and tools I use
