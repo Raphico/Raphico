@@ -2,7 +2,7 @@
 
 Passionate about building solutions for the web.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwindcss,postgres,docker,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwindcss,postgres,docker,bash,git)](https://skillicons.dev)
 
 ### 💬 Let's connect
 
