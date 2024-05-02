@@ -6,7 +6,7 @@ Passionate about building solutions for the web.
 
 ### 💬 Let's connect
 
-If you have any questions, ideas, or just want to chat about tech, feel free to reach out! I love engaging with fellow enthusiasts and exchanging insights. You can connect with me through [Raphico](https://twitter.com/Raphico_OA) -->
+If you have any questions, ideas, or just want to chat about tech, feel free to reach out! I love engaging with fellow enthusiasts and exchanging insights. You can connect with me through [Raphico](https://twitter.com/JustRaphico) 
 
 ### ⚡ Fun Fact
 
